@@ -5,7 +5,7 @@
         <api_name>sn_neha2.Alpha</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
-        <description/>
+        <description>stash</description>
         <name>Alpha</name>
         <script><![CDATA[var Alpha = Class.create();
 Alpha.prototype = {
@@ -18,13 +18,13 @@ Alpha.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-23 16:44:57</sys_created_on>
         <sys_id>258fd004772f33004d4eb5b2681061de</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Alpha</sys_name>
         <sys_package display_value="neha2" source="sn_neha2">443890fb771333004d4eb5b268106157</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="neha2">443890fb771333004d4eb5b268106157</sys_scope>
         <sys_update_name>sys_script_include_258fd004772f33004d4eb5b2681061de</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-23 16:44:57</sys_updated_on>
+        <sys_updated_on>2019-08-23 16:46:58</sys_updated_on>
     </sys_script_include>
 </record_update>
